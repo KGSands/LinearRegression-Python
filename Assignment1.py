@@ -1,8 +1,8 @@
-##################################
-# 		Machine Learning 	 	 #
-# 					 			 #
+##########################################
+# 	Machine Learning 	 	 #
+# 	 				 #
 # 	Simple Linear Regression 	 #
-##################################
+##########################################
 
 import matplotlib.pyplot as plt
 import numpy as np
